@@ -1,0 +1,28 @@
+{
+  "name": "record",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^4.0.3",
+    "electron-builder": "^20.38.5"
+  },
+  "build": {
+    "appId": "record.tray",
+    "productName": "Radio Record",
+    "artifactName": "Radio Record ${version}.${ext}",
+    "copyright": "Copyright © 2018 Taly Guryn",
+    "mac": {
+      "category": "public.app-category.reference"
+    },
+    "dmg": {
+      "title": "Radio Record"
+    },
+    "files": [
+      "**/*"
+    ]
+  }
+}
