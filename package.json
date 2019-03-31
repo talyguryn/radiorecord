@@ -1,5 +1,5 @@
 {
-  "name": "record",
+  "name": "radiorecord",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,6 @@
     "appId": "record.tray",
     "productName": "Radio Record",
     "artifactName": "Radio Record ${version}.${ext}",
-    "copyright": "Copyright © 2018 Taly Guryn",
     "mac": {
       "category": "public.app-category.reference"
     },
