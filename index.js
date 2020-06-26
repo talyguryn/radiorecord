@@ -2,7 +2,7 @@
  * Embed player URL
  * @type {string}
  */
-const RECORD_URL = 'https://radiorecord.ru/player/';
+const RECORD_URL = 'https://www.radiorecord.ru/player/';
 
 /**
  * Require tools
