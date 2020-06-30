@@ -1,6 +1,6 @@
 # Radio Record tray player
 
-This is a test Electron tray app with a Radio Record [embed player](http://www.radiorecord.ru/player/).
+This is a test Electron tray app with a Radio Record [embed player](https://www.radiorecord.ru/player/).
 
 Radio Record — https://www.radiorecord.ru
 
